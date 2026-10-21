@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Manish! 👋
 
-<!--
-**manish-workspace-portfolio/manish-workspace-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Business Analyst | Data Analytics
 
-Here are some ideas to get you started:
+I am a Business Analyst trained in Excel, Power BI, SQL, and Tableau, with skills in data cleaning, data modeling, data visualization, and dashboard development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am competent, transforming raw data into meaningful insights that support data-driven business decisions.
+
+### Skills
+- Microsoft Excel
+- Microsoft Power BI
+- MySQL
+- Tableau Public
+- Data Cleaning & Analysis
+- KPI Reporting & Dashboard Development
+
+### 📊 Featured Projects
+My projects will be added here as my business/data analytics workspace portfolio.
+
+### 🤝 Connect with Me
+- GitHub: Explore my repositories to see my projects.
