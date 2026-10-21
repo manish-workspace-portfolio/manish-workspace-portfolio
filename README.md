@@ -15,7 +15,15 @@ I am competent, transforming raw data into meaningful insights that support data
 - KPI Reporting & Dashboard Development
 
 ### 📊 Featured Projects
-My projects will be added here as my business/data analytics workspace portfolio.
+### 1. HR Analytics Dashboard
+Analyzed employee attrition and retention patterns using Excel, SQL, Power BI, and Tableau.
+
+[View HR Analytics Project](https://github.com/manish-workspace-portfolio/hr-analytics-dashboard)
+
+### 2. CRM Analytics Dashboard
+Analyzed leads, opportunities, pipeline performance and revenue using Excel, SQL, Power BI, and Tableau.
+
+[View CRM Analytics Project](https://github.com/manish-workspace-portfolio/crm-analytics-dashboard)
 
 ### 🤝 Connect with Me
 - GitHub: Explore my repositories to see my projects.
